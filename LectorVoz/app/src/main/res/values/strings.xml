@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LectorVoz</string>
+    <string name="message_1">¿Qué es el método de puntos de función?
+        Fue desarrollado originalmente por Allan Albrecht en 1979 mientras trabajaba para IBM,
+        quien definió conceptos para medir el software a partir de valoraciones de funcionalidades
+        entregadas al usuario y no a partir de aspectos técnicos, con la intención de producir
+        valoraciones independientes de la tecnología y fases del ciclo de vida utilizado...
+        Los puntos de función son una mejor forma de estimación de esfuerzo requerido para
+        desarrollar un proyecto de software y así mismo su costo. Miden el software cuantificando
+        la funcionabilidad provista al usuario en base principalmente al diseño lógico.
+        EI : Procesos en los que se introducen datos y se actualizan de cualquier archivo
+        interno.EO: Procesos en los que se envía datos al exterior de la aplicación.
+        EQ: Procesos consistentes en la combinación de una entrada y una salida, donde no se
+        produce ningún cambio en ningún archivo  ILF: Grupos de datos relacionados entre sí internos al sistema.
+        EIF: Grupos de datos que se mantienen externamente.</string>
+    <string name="error_leng">Error Language</string>
+    <string name="failed">Failed</string>
+</resources>
